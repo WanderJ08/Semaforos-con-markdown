@@ -2,8 +2,6 @@
  
 #### Wander Jerez 2021-0990 
 
-# Nota
-*Si no ve las imagenes tiene que descargar el repositorio, es un error de github por asignarle las imagenes con los nombres de imagen1,2 y asi*
 
 *Los semáforos son una herramienta de sincronización que provee el sistema operativo que no requiere espera ocupada. Para evitar la espera ocupada cuando un proceso tiene que esperar, se pondrá en una cola de procesos bloqueados esperando un evento*
 
@@ -11,11 +9,11 @@
 
 *Solo se puede acceder a estos por medio de dos operaciones atómicas y mutuamente exlusivas: Wait y signal*
 
-![foto1](/imagenes/imagen1.png)
+![foto1](/imagenes/Imagen1.png)
 
 *Cuando el proceso este bloqueado el proceso (Q) puede pasar a ejecución*
 
-![foto2](/imagenes/imagen2.png)
+![foto2](/imagenes/Imagen2.png)
 
 ## **Semáforos binarios y generales**
 
